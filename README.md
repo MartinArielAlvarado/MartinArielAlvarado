@@ -18,7 +18,7 @@ Busco mi primera oportunidad dentro del **ecosistema de Datos**, con la flexibil
 
 ### 🚀 Proyectos Destacados
 
-* 🛒 **[Análisis de Comportamiento y Retención en Retail](link-a-tu-repo-de-retail)**
+* 🛒 **[Análisis de Comportamiento y Retención en Retail](https://github.com/MartinArielAlvarado/retail-transactions-analysis)**
   * **Resumen:** Análisis de un dataset de retail aplicando segmentación RFM. Identificación de canibalización de ventas en horas pico y formulación de estrategias de pricing para optimizar el revenue.
   * **Stack:** Python (Pandas, Seaborn, Matplotlib), SQL.
 
@@ -31,8 +31,8 @@ A largo plazo, mi objetivo es especializarme en Machine Learning e Inteligencia 
 ---
 
 ### 📫 Contacto
-* **LinkedIn:** [https://www.linkedin.com/in/malvarado93/]
-* **Email:** [alvarado.martin@hotmail.es]
+* **LinkedIn:** https://www.linkedin.com/in/malvarado93/
+* **Email:** alvarado.martin@hotmail.es
 
 <!--
 **MartinArielAlvarado/MartinArielAlvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
