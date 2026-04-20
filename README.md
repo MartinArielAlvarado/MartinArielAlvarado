@@ -1,8 +1,8 @@
 # Hola, soy Martín Alvarado 👋
 
-**Data Professional (Analytics, BI & Data Science) | Estudiante de Cs. de Datos y Cs. de la Computación (UBA)**
+**Data Professional (Analytics & BI) | Estudiante de Cs. de Datos y Cs. de la Computación (UBA)**
 
-Vengo de una trayectoria de varios años trabajando en Control de Gestión, donde desarrollé una fuerte visión de negocio y análisis de rentabilidad. Hoy estoy fusionando ese criterio comercial con el rigor algorítmico y matemático de mi formación en la Universidad de Buenos Aires para resolver problemas complejos a través de los datos.
+Vengo de una trayectoria de varios años trabajando en Control de Gestión, donde desarrollé una fuerte visión y análisis de negocio. Hoy estoy fusionando ese criterio comercial con el rigor algorítmico y matemático de mi formación en la Universidad de Buenos Aires para resolver problemas complejos a través de los datos.
 
 Busco mi primera oportunidad dentro del **ecosistema de Datos**, con la flexibilidad para aportar valor desde el primer día en roles de **Data Analytics, Business Intelligence (BI), Machine Learning o Reporting**. Me entusiasma aplicar mi perfil analítico para optimizar estrategias y tomar decisiones basadas en datos en áreas como Pricing, Supply Chain, Operaciones o Desarrollo de Modelos.
 
