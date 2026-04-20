@@ -10,7 +10,7 @@ Busco mi primera oportunidad dentro del **ecosistema de Datos**, con la flexibil
 
 ### 🛠️ Stack Tecnológico
 * **Lenguajes:** Python, SQL, Java
-* **Análisis y Visualización:** Pandas, Matplotlib, Seaborn
+* **Análisis y Visualización:** Pandas, Matplotlib, Seaborn, Excel, Power BI
 * **Bases de Datos:** PostgreSQL, DBeaver
 * **Conceptos Core:** Segmentación RFM, Análisis de Cohortes, ETL, Web Scraping, Análisis de Rentabilidad
 
@@ -20,7 +20,7 @@ Busco mi primera oportunidad dentro del **ecosistema de Datos**, con la flexibil
 
 * 🛒 **[Análisis de Comportamiento y Retención en Retail](https://github.com/MartinArielAlvarado/retail-transactions-analysis)**
   * **Resumen:** Análisis de un dataset de retail aplicando segmentación RFM. Identificación de canibalización de ventas en horas pico y formulación de estrategias de pricing para optimizar el revenue.
-  * **Stack:** Python (Pandas, Seaborn, Matplotlib), SQL.
+  * **Stack:** Python (Pandas, Seaborn, Matplotlib), SQL, Excel, Power BI.
 
 
 ---
