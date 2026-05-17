@@ -18,7 +18,7 @@ Busco mi primera oportunidad dentro del **ecosistema de Datos**, con la flexibil
 
 ### 🚀 Proyectos Destacados
 
-* 🛒 **[Análisis de Comportamiento y Retención en Retail](https://github.com/MartinArielAlvarado/retail-transactions-analysis)**
+* 🛒 **[Pipeline End-to-End de Transacciones de Retail (EDA | Data Warehouse | ETL | Power BI)](https://github.com/MartinArielAlvarado/retail-transactions-analysis)**
   * **Resumen:** Análisis de un dataset de retail aplicando segmentación RFM. Identificación de canibalización de ventas en horas pico y formulación de estrategias de pricing para optimizar el revenue.
   * **Stack:** Python (Pandas, Seaborn, Matplotlib), SQL, Excel, Power BI.
 
