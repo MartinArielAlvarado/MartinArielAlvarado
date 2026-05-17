@@ -19,8 +19,8 @@ Busco mi primera oportunidad dentro del **ecosistema de Datos**, con la flexibil
 ### 🚀 Proyectos Destacados
 
 * 🛒 **[Pipeline End-to-End de Transacciones de Retail (EDA | Data Warehouse | ETL | Power BI)](https://github.com/MartinArielAlvarado/retail-transactions-analysis)**
-  * **Resumen:** Análisis de un dataset de retail aplicando segmentación RFM. Identificación de canibalización de ventas en horas pico y formulación de estrategias de pricing para optimizar el revenue.
-  * **Stack:** Python (Pandas, Seaborn, Matplotlib), SQL, Excel, Power BI.
+  * **Resumen:** Proyecto integral de Business Intelligence enfocado en el análisis de transacciones de retail, ingeniería de datos y visualización para la toma de decisiones estratégicas.
+  * **Stack:** Python (Pandas, Seaborn, Matplotlib), SQL (PostgreSQL), Power BI, DAX.
 
 
 ---
